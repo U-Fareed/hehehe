@@ -48,7 +48,7 @@ export function GiftIntroPopup({
 
       <h1 className="landing-headline landing-headline--bounce">{headline}</h1>
 
-      <p className="landing-hand-note">Happy 54th Birthday, Dada!</p>
+      <p className="landing-hand-note">Happy 53rd Birthday, Dada!</p>
 
       <div className="landing-gift-stage">
         {/* Slowly spinning golden festive sunburst rays behind gift */}

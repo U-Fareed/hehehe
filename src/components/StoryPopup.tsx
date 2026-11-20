@@ -89,7 +89,7 @@ function StoryVisual({type, reduced}: {type: StoryAnimationType; reduced: boolea
             <path d="M99 63c3-6 7-8 10-8" fill="none" stroke="rgba(255,255,255,0.55)" strokeWidth="2" strokeLinecap="round" />
           </motion.g>
 
-          {/* Golden 54 Medallion */}
+          {/* Golden 53 Medallion */}
           <motion.g
             animate={reduced ? undefined : {scale: [1, 1.09, 1], rotate: [-2, 2, -2]}}
             transition={{duration: 2.6, repeat: Infinity, ease: 'easeInOut'}}
@@ -105,7 +105,7 @@ function StoryVisual({type, reduced}: {type: StoryAnimationType; reduced: boolea
               fontSize="33"
               fontWeight="700"
             >
-              54
+              53
             </text>
           </motion.g>
 

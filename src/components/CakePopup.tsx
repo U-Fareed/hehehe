@@ -189,7 +189,7 @@ export function CakePopup({
               strokeLinejoin="round"
             />
 
-            {/* Golden "54" Cake Topper between candles */}
+            {/* Golden "53" Cake Topper between candles */}
             <g>
               <path d="M174 108V82M186 108V82" stroke="#D98A00" strokeWidth="1.6" strokeLinecap="round" />
               <text
@@ -203,7 +203,7 @@ export function CakePopup({
                 fontSize="24"
                 fontWeight="700"
               >
-                54
+                53
               </text>
             </g>
 

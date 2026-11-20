@@ -3,13 +3,13 @@ import type {BirthdayContent} from './types';
 export const DEFAULT_BIRTHDAY_CONTENT: BirthdayContent = {
   meta: {
     callHim: 'Dada',
-    turningAge: '54',
+    turningAge: '53',
     birthdayDate: '',
     fromNames: 'Mama, Z, Abu, Umar & Whiskey',
   },
   backgroundMusic: 'assets/audio/music.mp3',
   intro: {
-    dateBadge: 'For Dada · Turning 54',
+    dateBadge: 'For Dada · Turning 53',
     headline: 'SUPRISEEEE!!!!',
     subtitle: 'From Mama, Z, Abu, Umar & Whiskey. We made this just for you.',
     buttonLabel: 'Next',
@@ -18,7 +18,7 @@ export const DEFAULT_BIRTHDAY_CONTENT: BirthdayContent = {
     {
       id: 'toast',
       animationType: 'balloons',
-      eyebrow: '54 Today',
+      eyebrow: '53 Today',
       title: 'Happy Birthday, Dada!',
       body: 'You spend every day looking out for us and making sure we have whatever we need. Today is all about celebrating you, relaxing, and feeling how loved you are by all of us.',
       highlight: 'Today is yours, Dada—just sit back and enjoy it.',
@@ -71,7 +71,7 @@ export const DEFAULT_BIRTHDAY_CONTENT: BirthdayContent = {
         handClass: 'hand-mama',
         accent: '#FF595E',
         message:
-          'Happy 54th Birthday! Thank you for being our strength through all the years apart and always putting our family first. I pray this year brings you good health, peace, and plenty of happy moments together.',
+          'Happy 53rd Birthday! Thank you for being our strength through all the years apart and always putting our family first. I pray this year brings you good health, peace, and plenty of happy moments together.',
         wish: 'Here is to celebrating many more birthdays side by side.',
         audio: 'assets/audio/voice-mama.mp3',
       },
@@ -93,7 +93,7 @@ export const DEFAULT_BIRTHDAY_CONTENT: BirthdayContent = {
         handClass: 'hand-abu',
         accent: '#06B48A',
         message:
-          'Happy 54th, Dada! Thank you for all the years you worked hard abroad so we could have everything we wanted. I admire your patience, fairness, and how you always take care of all of us equally.',
+          'Happy 53rd, Dada! Thank you for all the years you worked hard abroad so we could have everything we wanted. I admire your patience, fairness, and how you always take care of all of us equally.',
         wish: 'Hope you have an awesome day full of good food and karaoke.',
         audio: 'assets/audio/voice-abu.mp3',
       },
@@ -105,7 +105,7 @@ export const DEFAULT_BIRTHDAY_CONTENT: BirthdayContent = {
         accent: '#1982C4',
         message:
           'Happy birthday, Dada! Thank you for every movie trip, every dinner treat, and for teaching us what really matters in life. Even your weirdest meals and random cleaning tools turn into the best memories.',
-        wish: 'Wishing you the happiest 54th birthday ever, Dada.',
+        wish: 'Wishing you the happiest 53rd birthday ever, Dada.',
         audio: 'assets/audio/voice-umar.mp3',
       },
     ],
@@ -116,7 +116,7 @@ export const DEFAULT_BIRTHDAY_CONTENT: BirthdayContent = {
     subpromptBefore: 'Tap each candle (or hit Light All) while Whiskey watches.',
     promptAllLit: 'Make a big wish and blow them out!',
     subpromptAllLit: 'Tap or hold the button below.',
-    promptAfter: 'Happy 54th Birthday, Dada!',
+    promptAfter: 'Happy 53rd Birthday, Dada!',
     subpromptAfter: 'We hope every single wish comes true. We love you!',
     lightAllLabel: 'Light All Candles',
     blowButtonLabel: 'Blow Out Candles',
@@ -129,10 +129,10 @@ export const DEFAULT_BIRTHDAY_CONTENT: BirthdayContent = {
     ],
   },
   finale: {
-    eyebrow: '54 Years of Dada',
+    eyebrow: '53 Years of Dada',
     headline: 'We love you so much, Dada ❤️',
     message:
-      'Thank you for every sacrifice, every trip home, every movie and dinner, and every laugh. Have the happiest 54th birthday—you deserve the absolute best.',
+      'Thank you for every sacrifice, every trip home, every movie and dinner, and every laugh. Have the happiest 53rd birthday—you deserve the absolute best.',
     signatures: [
       {name: 'Mama', handClass: 'hand-mama'},
       {name: 'Z', handClass: 'hand-z'},

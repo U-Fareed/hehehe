@@ -1,4 +1,4 @@
-# Happy 54th Birthday, Dada
+# Happy 53rd Birthday, Dada
 
 An interactive birthday card and popup gift experience built for Dada from Mama, Z, Abu, and Umar. It builds to a static folder (`dist/`) with relative paths (`./`) so it works directly on GitHub Pages.
 
@@ -37,8 +37,19 @@ npm run build
 
 ## 4. Publishing to GitHub Pages
 
-1. Run `npm run build` to generate `dist/`.
-2. Create a new repository on GitHub (for example, `for-dada`).
-3. Upload the contents of `dist/` (`index.html`, `assets/`, `js/`) while keeping the folder structure intact.
-4. Go to **Settings -> Pages**, set Source to **Deploy from a branch**, pick **main** and **/ (root)**, and save.
-5. Wait 1 to 2 minutes and open `https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/` on your phone to test every popup and candle.
+The repository includes `.github/workflows/deploy-pages.yml`, which builds and publishes the site automatically.
+
+1. Push the project to a GitHub repository on the `main` branch.
+2. On GitHub, open **Settings -> Pages**.
+3. Under **Build and deployment**, set **Source** to **GitHub Actions**.
+4. Push to `main` or run **Actions -> Deploy to GitHub Pages -> Run workflow**.
+5. Open the URL shown on the workflow's GitHub Pages deployment step.
+
+The workflow runs TypeScript validation, creates `dist/`, and uploads that folder as the Pages artifact. Vite is configured with relative paths, so the site works on a project subpath such as `https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/`.
+
+To verify the production build locally:
+
+```bash
+npm run deploy
+npm run preview
+```

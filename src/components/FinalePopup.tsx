@@ -77,7 +77,7 @@ export function FinalePopup({
               fontSize="29"
               fontWeight="700"
             >
-              54
+              53
             </text>
           </motion.g>
 
