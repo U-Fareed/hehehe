@@ -28,7 +28,7 @@ window.BIRTHDAY_CONTENT = {
       id: "toast",
       animationType: "balloons",
       eyebrow: "54 Today",
-      title: "Happy Birthday, Dada!",
+      title: "Happy Birthday, Dada!!!",
       body: "You spend every day looking out for us and making sure we have whatever we need. Today is all about celebrating you, relaxing, and feeling how loved you are by all of us.",
       highlight: "Today is yours, Dada—just sit back and enjoy it.",
       confettiOnOpen: true,
@@ -48,8 +48,8 @@ window.BIRTHDAY_CONTENT = {
       id: "miles",
       animationType: "flight",
       eyebrow: "From Abroad to Home",
-      title: "Thank you for every year you worked away for us",
-      body: "Spending years working abroad meant missing out on time at home, and we know that wasn't easy on you. You gave up your own comfort and likes so we could have a great life, taught us right from wrong, pushed us to do our best, and always loved every one of us equally.",
+      title: "Thank you for every year you worked for us",
+      body: "Spending years working abroad meant missing out on time at home with us, and we know that wasn't easy on you. You gave up your own comfort and likes so we could have a great life, taught us right from wrong, pushed us to do our best, and always loved every one of us equally.",
       highlight: "We wouldn't be who we are and where we are, without everything you did for us.",
       confettiOnOpen: false,
       nextLabel: "Next"
@@ -81,7 +81,7 @@ window.BIRTHDAY_CONTENT = {
         role: "With all my love",
         handClass: "hand-mama",
         accent: "#FF595E",
-        message: "Happy 54th Birthday! Thank you for being our strength through all the years apart and always putting our family first. I pray this year brings you good health, peace, and plenty of happy moments together.",
+        message: "Happy 54th Birthday ❤️! Thank you for being our strength through all the years apart and always putting our family first. I pray this year brings you good health, peace, and plenty of happy moments together.",
         wish: "Here is to celebrating many more birthdays side by side.",
         audio: "assets/audio/voice-mama.mp3"
       },
@@ -91,8 +91,8 @@ window.BIRTHDAY_CONTENT = {
         role: "Your daughter",
         handClass: "hand-z",
         accent: "#E04F82",
-        message: "Happy birthday, Dada! Thank you for always believing in me, pushing me to do better, and spoiling me with chocolates whenever you visited. Even when you don't say much, I always feel how much you care.",
-        wish: "Love you so much, Dada. Bowling rematch soon!",
+        message: "Happy Birthday Dada!! Your guidance, love and support have made me the person I am today. You've pushed me to become the best version of myself, and i will always be grateful for that. You taught me to be independent, brave, and to never give up no matter what. Thank you for always believing in me, even when I didn't believe in myself. I wish you nothing but peace and happiness in the year ahead, and i love you very much ❤️",
+        wish: "Love you so much, Dada.",
         audio: "assets/audio/voice-z.mp3"
       },
       {
@@ -101,7 +101,7 @@ window.BIRTHDAY_CONTENT = {
         role: "Your son",
         handClass: "hand-abu",
         accent: "#06B48A",
-        message: "Happy 54th, Dada! Thank you for all the years you worked hard abroad so we could have everything we wanted. I admire your patience, fairness, and how you always take care of all of us equally.",
+        message: "Happy Birthday dada!!🎉 Taking this moment to just say how truly grateful I am to have you in my life. Thank you for all the quiet sacrifices you’ve made, the constant guidance you’ve given us and for always having our backs no matter what. Everything I am today is built on the foundation and support you’ve provided. I hope this year brings you the same peace, happiness, and good health that you’ve always worked so hard to give to us. Have a wonderful birthday and the best year ahead!❤️",
         wish: "Hope you have an awesome day full of good food and karaoke.",
         audio: "assets/audio/voice-abu.mp3"
       },
@@ -111,7 +111,7 @@ window.BIRTHDAY_CONTENT = {
         role: "Your son",
         handClass: "hand-umar",
         accent: "#1982C4",
-        message: "Happy birthday, Dada! Thank you for every movie trip, every dinner treat, and for teaching us what really matters in life. Even your weirdest meals and random cleaning tools turn into the best memories.",
+        message: "Happy Birthday Dada!!! Thanks for being the best father anyone could ever ask for, i know we dont say it much or show it, but we appreciate what you have done for us and how much you have sacrificed for us. From taking us out everytime you come to good dinners, to movies and fun day outs to teaching us what really matters in life and guiding us to get the best and do the best (and making wierd ass dishes). And also providing the best for us whether it came to education, clothes or food we eat. We are proud of how far you have come and how much you have done. I hope you find the peace you deserve after all these tireless years of grinding and may you have the best rest of your life. Wishing you nothing but the best! And i love you very much ❤️.",
         wish: "Wishing you the happiest 54th birthday ever, Dada.",
         audio: "assets/audio/voice-umar.mp3"
       }
